@@ -77,10 +77,17 @@ Currently focused on **AI agent infrastructure**, **LLM applications**, and buil
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hasnainzxc&count_private=true&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hasnainzxc&count_private=true&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api?username=hasnainzxc&count_private=true&show_icons=true" height="180" alt="stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainzxc&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainzxc&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainzxc&layout=compact" height="180" alt="languages" />
-</p>
+</picture>
 
 ---
 
